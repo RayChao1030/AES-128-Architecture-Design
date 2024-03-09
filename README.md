@@ -1,5 +1,5 @@
 # AES-128-Architecture-Design
-Used verilog to practice AES-128 algorithm into circuit on Modelsim, optimized the functions of sub_byte() and
+&nbsp;Used verilog to practice AES-128 algorithm into circuit on Modelsim, optimized the functions of sub_byte() and
 mix_column() as we can , and used tsmc90 to synthesize to obtain a significant reduction in circuit area. 
 Eventually sub_byte() function decreased 22.6% area and mix_column() function decreased 31.7%. With the low-area architecture and pipeline architecture that we have achieved, the longest path is reduced by less than one tenth of the original, and the area is 5.62 times.  
 Below is low area AES Architecture.  
