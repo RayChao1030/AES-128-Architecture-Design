@@ -9,5 +9,6 @@ Below is Pipeline Architecture of AES-128 Rounds 1-9 Details.
 ![image](https://github.com/RayChao1030/AES-128-Architecture-Design/assets/76627328/cfbaf3b6-cc3e-4312-8d28-0e6e70e15754)
 Below is Pipeline Architecture of AES-128 first and 10th Rounds Details.
 ![image](https://github.com/RayChao1030/AES-128-Architecture-Design/assets/76627328/bc4809ac-ca29-43c5-91de-63dcb83d709a)
+/n
 Below is our Encryption and Decryption result Demo. Further GrayscaleProcessed photos to Encrypt and Decrypt the photos on the pipeline model.
 ![image](https://github.com/RayChao1030/AES-128-Architecture-Design/assets/76627328/7fa166f6-535a-44d8-939f-625b25ac433b)
